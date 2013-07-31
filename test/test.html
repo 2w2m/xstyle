@@ -2,13 +2,11 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Test Core Functionality</title>
-	<style>
-	@import "core.css";
-	</style>
-
+	<title>Test Xstyle Functionality</title>
+	<script>
+		document.write('<link rel="stylesheet" href="' + location.search.slice(1) + '.css" />');
+	</script>
 	<script src="../../dojo/dojo.js" data-dojo-config="async:true, deps:['xstyle/main']"></script>
-
 </head>
 <body>
 
