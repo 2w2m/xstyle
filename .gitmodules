@@ -1,0 +1,9 @@
+[submodule "packages/dojo"]
+	path = packages/dojo
+	url = git://github.com/dojo/dojo
+[submodule "packages/put-selector"]
+	path = packages/put-selector
+	url = git://github.com/kriszyp/put-selector
+[submodule "packages/dbind"]
+	path = packages/dbind
+	url = git://github.com/kriszyp/dbind
