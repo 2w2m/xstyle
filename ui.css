@@ -9,10 +9,17 @@ h1, h2 {
 	font-weight: 100;
 	font-family: "Segoe UI Light", "Helvetica Neue", RobotoLight, "Segoe UI", "Segoe WP", sans-serif;
 	color: #08E;
+	margin-top: 0;
 }
 h1 {
 	font-size: 56px;
 	letter-spacing: 2px;
+}
+.logo {
+	width: 216;
+	height: 254;
+	margin: auto;
+	display: block;
 }
 .icon {
 	color: white;
